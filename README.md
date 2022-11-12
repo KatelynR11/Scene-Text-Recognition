@@ -70,11 +70,11 @@ The aim of this paper is to accurately detect and recognize scene text from real
 </p>
 
 ## Real-Time Video Scene Text Recognition
-•	The project's objective of accurately identifying and audibly rendering Scene Text for VI users from Real-Time video feed was accomplished. 
+The project's objective of accurately identifying and audibly rendering Scene Text for VI users from Real-Time video feed was accomplished. 
 <p float="left">
  <img width="300" alt="image" src="https://user-images.githubusercontent.com/93089387/201491600-42bc2dba-00ed-42b5-8061-a42e52c13d80.png">
-  <img width="300" alt="image" src="https://user-images.githubusercontent.com/93089387/201491602-bf52489b-8073-4889-85c3-0dad6e9661b5.png">
-  <img width="300" alt="image" src="https://user-images.githubusercontent.com/93089387/201491604-caf69f10-b741-4fd3-b7cd-04e65eab4ee2.png">
+ <img width="300" alt="image" src="https://user-images.githubusercontent.com/93089387/201491602-bf52489b-8073-4889-85c3-0dad6e9661b5.png">
+ <img width="300" alt="image" src="https://user-images.githubusercontent.com/93089387/201491604-caf69f10-b741-4fd3-b7cd-04e65eab4ee2.png">
 </p>
 
 ## Conclusion
